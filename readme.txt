@@ -1,5 +1,6 @@
 === Simple Post Alerts ===
 Contributors: alexphelps3
+Donate link: https://goo.gl/BeyOdv
 Tags: post notifications,post alerts,pending review
 Requires at least: 4.0
 Tested up to: 4.2.4
