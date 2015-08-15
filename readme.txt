@@ -17,15 +17,13 @@ Allows users to easily get alerts for new posts pending review and published.
 Go to your user profile and you'll see two new settings for pending review and published posts. You can also manage these settings for other users. Each time there is a new post that matches your settings you'll get a simple email notification with a link.
 > Note - users who cannot publish posts don't see the setting for posts pending review.
 
-![screenshot](https://raw.githubusercontent.com/alexphelps/simple-post-alerts/master/assets/user-notification-settings.jpg)
-
 == Installation ==
 1. Install the plugin as a standard plugin.
 2. Go to your profile settings and check which posts you want to get notified for.
 
 
 == Screenshots ==
-1. https://raw.githubusercontent.com/alexphelps/simple-post-alerts/master/assets/user-notification-settings.jpg
+1. Post alert notification settings on the user profile.
 
 == Changelog ==
 = 0.1 =
