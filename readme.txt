@@ -9,11 +9,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Allows users to easily get alerts for new posts pending review and published.
 
 == Description ==
-# Simple Post Alerts
+
+Simple Post Alerts
 Allows users to easily get alerts for new posts pending review and published.
 
-### How it works
-Go to your user profile and you\'ll see two new settings for pending review and published posts. You can also manage these settings for other users. Each time there is a new post that matches your settings you\'ll get a simple email notification with a link.
+#### How it works
+Go to your user profile and you'll see two new settings for pending review and published posts. You can also manage these settings for other users. Each time there is a new post that matches your settings you'll get a simple email notification with a link.
 > Note - users who cannot publish posts don't see the setting for posts pending review.
 
 ![screenshot](https://raw.githubusercontent.com/alexphelps/simple-post-alerts/master/assets/user-notification-settings.jpg)
