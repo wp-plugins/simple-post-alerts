@@ -1,5 +1,5 @@
 === Simple Post Alerts ===
-Contributors: alexphelps
+Contributors: alexphelps3
 Tags: post notifications,post alerts,pending review
 Requires at least: 4.0
 Tested up to: 4.2.4
